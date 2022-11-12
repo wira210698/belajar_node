@@ -1,0 +1,15 @@
+{
+  "name": "process-object",
+  "version": "1.0.0",
+  "description": "Testing Proses Object",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing"
+  },
+  "keywords": [
+    "nodeJS",
+    "process-object"
+  ],
+  "author": "Putra wiranata",
+  "license": "MIT"
+}

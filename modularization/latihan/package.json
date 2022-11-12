@@ -1,0 +1,14 @@
+{
+  "name": "latihan",
+  "version": "1.0.0",
+  "description": "Latihain mengenai modul",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing"
+  },
+  "keywords": [
+    "module"
+  ],
+  "author": "Putra Wiranata",
+  "license": "MIT"
+}

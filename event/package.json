@@ -1,0 +1,15 @@
+{
+  "name": "event",
+  "version": "1.0.0",
+  "description": "Learn About Event in Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('test event')"
+  },
+  "keywords": [
+    "event",
+    "NodeJS"
+  ],
+  "author": "Putra Wiranata",
+  "license": "MIT"
+}

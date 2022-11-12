@@ -1,0 +1,21 @@
+{
+  "name": "package-manager",
+  "version": "1.0.0",
+  "description": "pembelajaran tentang node package manager",
+  "main": "index.js",
+  "scripts": {
+    "start-dev": "NODE_ENV=development node index.js",
+    "start": "NODE_ENV=production node index.js"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "manager"
+  ],
+  "author": "Putra Wiranata",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
+

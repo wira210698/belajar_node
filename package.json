@@ -1,0 +1,14 @@
+{
+  "name": "node1",
+  "version": "1.0.0",
+  "description": "ini merupakan project pembelajaran NodeJS dari dicoding ",
+  "main": "index.js",
+  "scripts": {
+    "test": "Pembelajaran1"
+  },
+  "keywords": [
+    "nodejs_dicoding"
+  ],
+  "author": "Putra Wiranata",
+  "license": "MIT"
+}

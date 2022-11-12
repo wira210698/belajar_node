@@ -1,0 +1,16 @@
+{
+  "name": "latihan",
+  "version": "1.0.0",
+  "description": "Latihan Event",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('latihan event')"
+  },
+  "keywords": [
+    "latihan",
+    "event",
+    "nodejs"
+  ],
+  "author": "Putra WIranata",
+  "license": "MIT"
+}
